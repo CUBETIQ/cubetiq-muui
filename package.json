@@ -1,6 +1,6 @@
 {
   "name": "@cubetiq/muui",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "author": {
     "name": "Sambo Chea",
     "email": "sombochea@cubetiqs.com"
@@ -30,10 +30,6 @@
     "build": "tsc && vite build"
   },
   "peerDependencies": {
-    "@emotion/react": "^11.x",
-    "@emotion/styled": "^11.x",
-    "@mui/icons-material": "^5.x",
-    "@mui/material": "^5.x",
     "react": "^16.8.0 || 17.x || 18.x",
     "react-dom": "^16.8.0 || 17.x | 18.x"
   },
