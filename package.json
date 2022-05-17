@@ -1,6 +1,5 @@
 {
   "name": "@cubetiq/muui",
-  "private": true,
   "version": "0.0.1",
   "author": {
     "name": "Sambo Chea",
@@ -73,5 +72,8 @@
       "sourceType": "module"
     }
   },
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
 }
