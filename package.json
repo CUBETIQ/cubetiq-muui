@@ -31,7 +31,8 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build"
+    "build": "tsc && vite build",
+    "ci": "yarn && yarn build"
   },
   "peerDependencies": {
     "react": "^16.8.0 || 17.x || 18.x",
