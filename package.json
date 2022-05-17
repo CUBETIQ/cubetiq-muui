@@ -1,6 +1,6 @@
 {
   "name": "@cubetiq/muui",
-  "version": "0.0.1-alpha.3",
+  "version": "0.0.1-alpha.4",
   "author": {
     "name": "Sambo Chea",
     "email": "sombochea@cubetiqs.com"
@@ -13,13 +13,13 @@
     "mui"
   ],
   "license": "MIT",
-  "main": "./dist/muui-vite.umd.js",
-  "module": "./dist/muui-vite.es.js",
+  "main": "./dist/muui.umd.js",
+  "module": "./dist/muui.es.js",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/muui-vite.es.js",
-      "require": "./dist/muui-vite.umd.js"
+      "import": "./dist/muui.es.js",
+      "require": "./dist/muui.umd.js"
     }
   },
   "files": [
