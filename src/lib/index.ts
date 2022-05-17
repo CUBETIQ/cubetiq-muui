@@ -1,5 +1,3 @@
-import Button from "./button";
-import Box from "./box";
-import Skeleton from "./skeleton";
-
-export default { Skeleton, Box, Button };
+export { default as Button } from "./button";
+export { default as Box } from "./box";
+export { default as Skeleton } from "./skeleton";
