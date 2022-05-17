@@ -12,6 +12,7 @@
     "vite",
     "mui"
   ],
+  "license": "MIT",
   "main": "./dist/muui-vite.umd.js",
   "module": "./dist/muui-vite.es.js",
   "exports": {
