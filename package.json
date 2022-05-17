@@ -1,11 +1,15 @@
 {
   "name": "@cubetiq/muui",
-  "version": "0.0.1-alpha.6",
+  "version": "0.0.1-alpha.7",
   "author": {
     "name": "Sambo Chea",
     "email": "sombochea@cubetiqs.com"
   },
   "description": "MUUI a React UI library for building user interfaces",
+  "repository": {
+    "url": "https://github.com/CUBETIQ/cubetiq-muui.git",
+    "type": "git"
+  },
   "keywords": [
     "muui",
     "react",
